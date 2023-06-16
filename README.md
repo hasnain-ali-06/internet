@@ -8,7 +8,7 @@
 
 Here are a few things you should know about me:
 
-- Name: Sundus Shafiq
+- Name: Areeba Arshad
 - Occupation: Software Engineer
 - Hobbies:
   - Reading
